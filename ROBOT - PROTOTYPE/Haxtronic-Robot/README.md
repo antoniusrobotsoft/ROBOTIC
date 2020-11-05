@@ -1,7 +1,7 @@
 # Haxtronic-Robot
 A Machine Learning Based Robot-with Nvidia GPU,Deep Learning framework:keras, tensorflow,Caffe,Openface
 
-Created by : Antonius (Ringlayer)
+Created by : Antonius Robotsoft 
 
 
 
