@@ -1,15 +1,14 @@
 # Giant-Robot
 A Giant Robot Powered by Minipc, and Arduino
 
-Created by : Antonius (Ringlayer)
+Created by : Antonius Robotsoft (a.k.a Ringlayer)
 site:
-- www.ringlayer.net
-- www.ringlayer.com
+www.robotsoft.co.id - www.freenergi.com
 
 <br>
+twitter: @robotsoftid  &  @freenergi
+<br>
 
-twitter: @ringlayer
+<img src="https://github.com/antoniusrobotsoft/ROBOTIC/blob/main/ROBOTS-%20PROTOTYPE/Giant-Robot/giant_robot.gif">
 
-<img src="https://github.com/ringlayer/Giant-Robot/blob/master/giant_robot.gif">
-
-<img src="https://raw.githubusercontent.com/ringlayer/Giant-Robot/master/giant-robot.png">
+<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTIC/main/ROBOTS-%20PROTOTYPE/Giant-Robot/giant-robot.png">
