@@ -18,4 +18,4 @@ Twitter:
 
 
 capabilities:
-- Anonymous navigation (obstacle avoidance)
+- Autonomous navigation (obstacle avoidance)
