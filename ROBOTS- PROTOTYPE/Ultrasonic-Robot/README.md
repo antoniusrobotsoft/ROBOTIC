@@ -14,7 +14,7 @@ Twitter:
 <a href="https://twitter.com/robotsoftid">@robotsoftid</a>
 <br>
 
-<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTIC/main/ROBOT%20-%20PROTOTYPE/Ultrasonic-Robot/ultrasonic-robot.jpg">
+<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTIC/main/ROBOTS-%20PROTOTYPE/Ultrasonic-Robot/ultrasonic-robot.jpg">
 
 
 capabilities:
