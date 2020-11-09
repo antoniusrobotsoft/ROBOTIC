@@ -14,7 +14,7 @@ Twitter:
 <a href="https://twitter.com/robotsoftid">@robotsoftid</a>
 <br>
 
-<img src="https://raw.githubusercontent.com/ringlayer/Haxtronic-Robot/master/haxtronic-robot.png">
+<img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTIC/main/ROBOTS-%20PROTOTYPE/Haxtronic-Robot/haxtronic-robot.png">
 
 
 capabilities:
