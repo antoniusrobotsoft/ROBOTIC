@@ -1,0 +1,3 @@
+https://www.robotshop.com/community/tutorials/show/robot-arm-torque-tutorial
+
+https://www.researchgate.net/publication/342154432_Joint_Torque_and_Motion_Computational_Analysis_for_Robotic_Manipulator_Arm_Design
