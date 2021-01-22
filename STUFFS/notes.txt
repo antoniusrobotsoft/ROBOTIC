@@ -8,6 +8,8 @@ https://challenges.robotevents.com/uploads/0000767_original.pdf
 
 https://www.robotshop.com/community/forum/t/robot-arm-torque-tutorial/31349/8
 
+
+
 Choosing Motors
 
 https://www.engineersgarage.com/tech-articles/choosing-motor-for-robots/
@@ -16,3 +18,9 @@ https://rozum.com/servo-and-other-robotics-actuators/
 https://www.instructables.com/Complete-Motor-Guide-for-Robotics/
 https://medium.com/husarion-blog/10-steps-to-choosing-the-right-motors-for-your-robotic-project-bf5c4b997407
 https://www.instructables.com/High-Torque-Steering-Mechanism-for-really-large-Re/
+
+
+Quadrupped
+https://github.com/JoeyByrnes/OpenLeg
+https://www.youtube.com/watch?v=aXOSeKpADnk
+https://www.instructables.com/OpenLeg-Dynamic-Robotic-Leg/
