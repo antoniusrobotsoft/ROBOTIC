@@ -29,3 +29,4 @@ https://www.youtube.com/watch?v=4j-diMsv5s4
 
 Motor Terms : 
 - RMF : rotating magnetic field 
+- kg-cm -> kgf-cm
