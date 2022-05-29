@@ -27,3 +27,22 @@ https://www.roboticslibrary.org/
 https://orocos.org/
 
 
+PYTHON
+
+https://pyrobot.org/
+
+https://dartsim.github.io/
+
+
+https://github.com/robotology/idyntree
+
+https://github.com/siconos/siconos
+
+https://github.com/nnadeau/pybotics
+
+https://github.com/krishauser/Klampt
+
+https://www.pydy.org/
+
+
+
