@@ -12,5 +12,18 @@ http://www.tekkotsu.org/
 
 https://docs.mrpt.org/reference/latest/
 
-
 https://robotframework.org/
+
+https://www.coppeliarobotics.com/
+
+https://dlife.sdu.dk/robots/
+
+https://github.com/cinvesrob/Aria
+
+https://ardupilot.org/
+
+https://www.roboticslibrary.org/
+
+https://orocos.org/
+
+
