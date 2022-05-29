@@ -1,1 +1,13 @@
 http://www.roborealm.com/
+
+https://www.ros.org/
+
+http://carmen.sourceforge.net/
+
+Microsoft Robotics Developer Studio
+
+https://gazebosim.org/home
+
+http://www.tekkotsu.org/
+
+https://docs.mrpt.org/reference/latest/
